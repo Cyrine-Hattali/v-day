@@ -4,17 +4,17 @@ const gifStages = [
     "https://media.tenor.com/UdThavVus9oAAAAi/peach-and.gif",             // 2 pleading
     "https://media.tenor.com/cG5-wSuBxCsAAAAi/peach-cat.gif",             // 3 sad
     "https://media.tenor.com/hJazauQezk0AAAAi/yaseen1.gif",       // 4 sadder
-    "https://media.tenor.com/sRBDTpaM1rsAAAAi/tkthao219-peach.gif",             // 5 devastated
+    "https://media.tenor.com/79a7dBfiN3wAAAAi/peachcat-cat.gif",             // 5 devastated
     "https://media.tenor.com/mgXRT99eDHsAAAAi/peachcat-cat.gif",               // 6 very devastated
     "https://media.tenor.com/79a7dBfiN3wAAAAi/peachcat-cat.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
     "No",
-    "Bilel Whyyy? 🤔",
+    "Bilel Whyyy? 😭",
     "Habibi Please... 🥺",
     "If You Say No, I Will Be Really Sad...",
-    "I Will Be Very Very Sad... 😢",
+    "Don't Do This To Me... 😢",
     "Please??? 💔",
     "Don't Do This To Me...",
     "Last Chance! 😭",
@@ -22,10 +22,10 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "Try Saying No First... I Bet You Want To Know What Happens 😏",
+    "Try Saying No First Habibi... I Bet You Want To Know What Happens 😏",
     "Go On, Hit No... Just Once 👀",
-    "You're Missing Out 😈",
-    "Click No, I Dare You 😏"
+    "You're Missing Out 😭",
+    "Click No, Habibi plz 🥺"
 ]
 
 let yesTeasedCount = 0
