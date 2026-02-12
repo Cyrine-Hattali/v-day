@@ -1,31 +1,31 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media.tenor.com/C35t4Pf5GlgAAAAi/peach-and-goma-cute.gif",    // 0 normal
+    "https://media.tenor.com/jSpsA6J5Ll0AAAAj/gatito-llorando.gif",  // 1 confused
+    "https://media.tenor.com/UdThavVus9oAAAAi/peach-and.gif",             // 2 pleading
+    "https://media.tenor.com/cG5-wSuBxCsAAAAi/peach-cat.gif",             // 3 sad
+    "https://media.tenor.com/hJazauQezk0AAAAi/yaseen1.gif",       // 4 sadder
+    "https://media.tenor.com/sRBDTpaM1rsAAAAi/tkthao219-peach.gif",             // 5 devastated
+    "https://media.tenor.com/mgXRT99eDHsAAAAi/peachcat-cat.gif",               // 6 very devastated
+    "https://media.tenor.com/79a7dBfiN3wAAAAi/peachcat-cat.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
+    "Bilel Whyyy? 🤔",
+    "Habibi Please... 🥺",
+    "If You Say No, I Will Be Really Sad...",
+    "I Will Be Very Very Sad... 😢",
     "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "Don't Do This To Me...",
+    "Last Chance! 😭",
+    "You Have To Say Yes Now 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "Try Saying No First... I Bet You Want To Know What Happens 😏",
+    "Go On, Hit No... Just Once 👀",
+    "You're Missing Out 😈",
+    "Click No, I Dare You 😏"
 ]
 
 let yesTeasedCount = 0
